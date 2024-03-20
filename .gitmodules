@@ -118,3 +118,9 @@
 [submodule "5_FTP_server"]
 	path = 5_FTP_server
 	url = https://github.com/VladimirAndropov/5_FTP_server.git
+[submodule "7_TCP_server"]
+	path = 7_TCP_server
+	url = https://github.com/VladimirAndropov/7_TCP_server
+[submodule "Tumk_7_TCP_server"]
+	path = Tumk_7_TCP_server
+	url = https://github.com/An1stasia/Tumk_7_TCP_server
